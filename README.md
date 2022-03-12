@@ -8,7 +8,6 @@
 - inet connection
 
 ##### How to use?
-```
-git clone https://github.com/dxh-team/CDUW && cd CDUW \
-./attack.sh
+```bash
+git clone https://github.com/dxh-team/CDUW && cd CDUW && ./attack.sh
 ```
