@@ -3,10 +3,10 @@
 Також ви можете  *залучати своїх приятелів та знайомих* допомагати нам проводити DDoS атаки, завдяки цьому ми зможемо "покласти" більше російських сайтів.
  ***
 
-### Requierments
-- Web Browser
-- Google Account
-- Keyboard
+##### Requirements
+- python 3x
+- shell (sh)
+- inet connection
 ***
 ### DDOS >> YANDEX
 ```
